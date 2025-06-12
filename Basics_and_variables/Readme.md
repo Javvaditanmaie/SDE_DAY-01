@@ -1,5 +1,6 @@
 
 /*1. **[Easy]** Declare a variable named `favoriteFood` using `const` and assign it a string value of your favorite food. Print it to the console.
+
 2. **[Easy]** Create two variables, `numA` and `numB`, and assign them number values. Write an `if/else` statement to print which number is larger or if they are equal.*/
 const favoriteFood="panipuri";
 console.log(favoriteFood);
@@ -36,4 +37,5 @@ output
 }</pre>
 
 Output
+
 ![image](https://github.com/user-attachments/assets/ac73460b-4673-4b46-93b2-375b2bb7db7e)
